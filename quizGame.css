@@ -1,0 +1,29 @@
+html, body { height: 100%; padding: 0; margin: 0; }
+div {
+     width: 25%; 
+     height: 25%; 
+     float: left;
+      text-align: center;  
+    }
+
+    
+
+#div1a { background: #DDD; }
+#div2a { background: #AAA; }
+#div3a { background: #777; }
+#div4a { background: #444; }
+
+#div1b { background: #DDD; }
+#div2b { background: #AAA; }
+#div3b { background: #777; }
+#div4b { background: #444; }
+
+#div1c { background: #DDD; }
+#div2c { background: #AAA; }
+#div3c { background: #777; }
+#div4c { background: #444; }
+
+#div1d { background: #DDD; }
+#div2d { background: #AAA; }
+#div3d { background: #777; }
+#div4d { background: #444; }
